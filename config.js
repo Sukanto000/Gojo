@@ -6,15 +6,15 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  ['919172389527', 'Shizo Techie ❤️✨', true],
-  ['919637987574', 'S.AI Bot', true],
+  ['917439798033', 'Sukanto❤️✨', true],
+  ['919637987574', 'Gojo', true],
   ['916207142994', 'Mr. Lens Lord 📸']
 ]
 global.mods = []
 global.prems = []
 
-global.author = 'Shizo The Techie'
-global.botname = 'ShizoBot'
+global.author = 'Sukanto'
+global.botname = 'Gojo'
  
  
  //Api's
